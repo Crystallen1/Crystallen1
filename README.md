@@ -5,7 +5,7 @@
 
 <!-- 简介卡片 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=500&height=80&lines=🚀+Backend+%7C+HPC+%7C+App+Dev;🎓+Master's+Student+@+Unimelb;🌏+Ex-ZJU+GIS+Graduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=500&height=80&lines=🚀+Backend+%7C+App+Dev;🎓+Master's+Student+@+Unimelb;🌏+Ex-ZJU+GIS+Graduate" alt="Typing SVG" />
 </p>
 
 ---
