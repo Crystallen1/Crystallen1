@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi,%20I'm%20Yunchen%20🚀&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi,%20I'm%20Yun%20Chen%20🚀&fontSize=40&fontColor=ffffff" />
 </p>
 
 <!-- 简介卡片 -->
