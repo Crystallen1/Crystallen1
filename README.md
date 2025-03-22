@@ -65,7 +65,7 @@ with a **Bachelor's degree in Geographic Information Science** from **Zhejiang U
 
 ## 📫 Let's Connect
 
-- 📝 [Blog](http://35.76.119.252/)
+- 📝 [Blog](http://35.76.119.252:8090)
 - 📧 Email: allenchen607@gmail.com
 
 ---
