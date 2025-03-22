@@ -36,7 +36,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Crystallen1&show_icons=true&theme=default" alt="Crystallen1's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crystallen1&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crystallen1" alt="Top Langs" />
 </p>
 
 ---
