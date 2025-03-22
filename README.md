@@ -35,8 +35,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunchen6&show_icons=true&theme=default" alt="Yunchen's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunchen6&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Crystallen1&show_icons=true&theme=default" alt="Crystallen1's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crystallen1&layout=compact" alt="Top Langs" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yunchen6&margin-w=10&theme=flat" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Crystallen1&margin-w=10&theme=flat" />
 </p>
 
 ---
