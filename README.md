@@ -15,6 +15,14 @@
 🎓 I'm currently a **Master's student in Software Engineering** at the **University of Melbourne**,  
 with a **Bachelor's degree in Geographic Information Science** from **Zhejiang University**.
 
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,py,go,cs,c,cpp,androidstudio,vscode,mysql,redis,docker,git,maven,linux,postman,pytorch,qt,react" />
+</p>
+
 
 ---
 
