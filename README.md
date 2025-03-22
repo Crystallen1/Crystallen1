@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yunchen</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A backend developer</h3>
 
 ---
 
@@ -36,8 +36,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Crystallen1&show_icons=true&theme=default" alt="Crystallen1's GitHub stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crystallen1" alt="Top Langs" />
 </p>
+
 
 ---
 
