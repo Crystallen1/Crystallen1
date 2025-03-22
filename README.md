@@ -1,10 +1,20 @@
-<h1 align="center">Hi 👋, I'm Yunchen</h1>
-<h3 align="center">A backend developer</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi,%20I'm%20Yunchen%20🚀&fontSize=40&fontColor=ffffff" />
+</p>
+
+<!-- 简介卡片 -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=500&height=80&lines=🚀+Backend+%7C+HPC+%7C+App+Dev;🎓+Master's+Student+@+Unimelb;🌏+Ex-ZJU+GIS+Graduate" alt="Typing SVG" />
+</p>
 
 ---
 
-🎓 I'm currently a Master's student in Software Engineering at the **University of Melbourne**, with a Bachelor's degree in Geographic Information Science from **Zhejiang University**.  
-💻 I enjoy building scalable backend systems.
+### 👋 About Me
+
+🎓 I'm currently a **Master's student in Software Engineering** at the **University of Melbourne**,  
+with a **Bachelor's degree in Geographic Information Science** from **Zhejiang University**.
+
 
 ---
 
