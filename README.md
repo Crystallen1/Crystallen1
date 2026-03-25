@@ -5,77 +5,93 @@
 
 <!-- 简介卡片 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=500&height=80&lines=🚀+Backend+%7C+App+Dev;🎓+Master's+Student+@+Unimelb;🌏+Ex-ZJU+GIS+Graduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=600&height=80&lines=🚀+AI+Agent+%7C+Backend+Engineer;💼+Alibaba+International;🎓+M.S.+Software+Engineering+@+Unimelb" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👋 About Me
+## 👋 About Me
 
-🎓 I'm currently a **Master's student in Software Engineering** at the **University of Melbourne**,  
-with a **Bachelor's degree in Geographic Information Science** from **Zhejiang University**.
+💼 Backend Engineer @ **Alibaba International**  
+🎓 M.S. in Software Engineering @ **University of Melbourne**  
+🎓 B.S. in Geographic Information Science @ **Zhejiang University**
 
----
+I focus on building **AI-driven systems**, especially:
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,py,go,cs,c,cpp,androidstudio,vscode,mysql,redis,docker,git,maven,linux,postman,pytorch,qt,react" />
-</p>
-
+- 🤖 AI Agent systems (self-evolving / multi-agent workflows)
+- ⚙️ Backend architecture (Java, distributed systems)
+- 🔄 Data pipelines & scalable processing
 
 ---
 
-## 🚀 Projects
+## 🧠 Current Focus
 
-- 🌍 **[Let's Trip](https://github.com/Crystallen1/COMP90018)**  
-  A Java-based Android travel planner app with itinerary editing, location-based suggestions, and offline storage.
-
-- 🎵 **[lyricsWordle](https://github.com/Crystallen1/lyricsWordle)**  
-  A fun [VS Code extension](https://marketplace.visualstudio.com/) built with TypeScript where users guess songs line by line, Wordle-style.
-
-- 🏫 **[ClubManagementSystem](https://github.com/Crystallen1/ClubManagementSystem)**  
-  A full-stack Java system for managing university clubs, including registration, events, and member tracking.
-
-- 🀄 **[WeChat Mini Program: Japanese Mahjong Score Calculator](https://github.com/Crystallen1/MahjongScoreCalculator)**  
-  Automatically calculates han, fu, and payment based on hand input and Japanese rules.
+- Designing **AI Coding Agent pipelines** (code → review → feedback loop → evolution)
+- Building **self-improving systems** based on PR feedback & runtime signals
+- Exploring **LLM + Engineering integration** (tool use, MCP, memory systems)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Java, Python, Go
-- **Frameworks**: Spring Boot, MyBatis
-- **Tools**: Redis, MySQL, Docker, Git
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,go,ts,react,mysql,redis,docker,kubernetes,git,linux" />
+</p>
+
+**Backend**
+- Java (Spring Boot, MyBatis)
+- Python (data processing, AI integration)
+- Go (high-performance services)
+
+**Infrastructure**
+- Redis, MySQL, Elasticsearch
+- Docker, Kubernetes (incl. Fission)
+- CI/CD pipelines
+
+**AI / Systems**
+- LLM Agents / Tooling (Agent workflow design)
+- Distributed crawling & data processing
+- Vector DB (Milvus), semantic memory systems
+
+---
+
+## 🚀 Selected Projects
+
+### 🌍 Let's Trip  
+Java-based Android travel planner with itinerary management and offline support  
+→ Focus: mobile + backend integration
+
+### 🎵 lyricsWordle  
+VS Code extension (TypeScript) for guessing songs Wordle-style  
+→ Focus: product design + user interaction
+
+### 🏫 ClubManagementSystem  
+Full-stack Java system for university club management  
+→ Focus: backend architecture + RBAC
+
+### 🀄 Mahjong Score Calculator  
+WeChat Mini Program for Japanese Mahjong scoring  
+→ Focus: rule engine + domain modeling
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Crystallen1&show_icons=true&theme=default" alt="Crystallen1's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Crystallen1&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crystallen1" alt="Top Langs" />
-</p>
-
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Crystallen1&margin-w=10&theme=flat" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crystallen1" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact
 
-- 📝 [Blog](http://35.76.119.252:8090)
-- 📧 Email: allenchen607@gmail.com
+- 📝 Blog: http://35.76.119.252:8090  
+- 📧 Email: allenchen607@gmail.com  
 
 ---
 
-_✨ Powered by curiosity & caffeine ✨_
+_✨ Building AI systems that improve themselves ✨_
