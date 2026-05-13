@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-💼 Backend Engineer @ **Alibaba International**  
+💼 Backend Engineer @ **Alibaba International Accio Work**  
 🎓 M.S. in Software Engineering @ **University of Melbourne**  
 🎓 B.S. in Geographic Information Science @ **Zhejiang University**
 
